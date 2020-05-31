@@ -1,5 +1,3 @@
-#!/bin/bash
-
 import os
 import re
 import hashlib
